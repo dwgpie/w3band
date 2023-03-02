@@ -185,7 +185,7 @@ html{
     margin-top: 46.5px;
     /*CHiều cao bằng 50% chiều rộng*/
     padding-top: 50%; 
-    background: url("/assets/css/img/slider/slider1.jpg") top center / cover no-repeat;
+    /* background: url("/assets/css/img/slider/slider1.jpg") top center / cover no-repeat; */
 
 }
 
